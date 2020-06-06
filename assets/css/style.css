@@ -491,7 +491,7 @@ footer a {
     }
 
     .service-grid-item.cancel {
-        transfor m: none;
+        transform: none;
         writing-mode: unset;
         grid-column: 1 / -1;
         grid-row: -1;
